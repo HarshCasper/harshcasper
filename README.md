@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/HarshCasper?tab=repositories)
 
-- 📝 I regulary write articles on [https://devmeet.in/author/harshcasper/](https://devmeet.in/author/harshcasper/)
+- 📝 I regulary write articles on [DevMeet](https://devmeet.in/author/harshcasper/)
 
 - 💬 Ask me about **React, Javascript, Flask, Tensorflow, Data Structures and Algorithms**
 
@@ -21,12 +21,14 @@
 
 - ⚡ Fun fact **I am writing a Historical Fiction Trilogy and wish to be an Author someday**
 
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcasper&layout=compact&hide=html&theme=radical" alt="harshcasper" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshcasper&show_icons=true&theme=radical" alt="harshcasper" />
 
 <p align="center">
-<a href="https://dev.to/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshcasper" height="30" width="30" /></a>
+</a>
 <a href="https://twitter.com/harsh_casper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_casper" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" /></a>
 <a href="https://kaggle.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>
