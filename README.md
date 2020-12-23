@@ -1,25 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Bardhan Mishra</h1>
-<h3 align="center">Full Stack Developer 👨‍💻 || Microsoft Learn Student Ambassador 🐦|| React Developer ⚛️ || Pythoneer 🐍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcsper" alt="harshcsper" /> </p>
-
-- 🔭 I’m currently working on **GraphViz**
-
-- 🌱 I’m currently learning **NextJS, Neo4j, AWS Elastic BeanStalk, Angular, GraphQL, Selenium**
-
-- 👯 I’m looking to collaborate on [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-
-- 🤔 I’m looking for help with [MargSetu](https://github.com/HarshCasper/MargSetu)
-
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/HarshCasper?tab=repositories)
-
-- 📝 I regulary write articles on [DevMeet](https://devmeet.in/author/harshcasper/)
-
-- 💬 Ask me about **React, Javascript, Flask, Tensorflow, Data Structures and Algorithms**
-
-- 📫 How to reach me **erbeusgriffincasper@gmail.com**
-
-- ⚡ Fun fact **I am writing a Historical Fiction Trilogy and wish to be an Author someday**
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
