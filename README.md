@@ -27,15 +27,15 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshcasper&show_icons=true&theme=radical" alt="harshcasper" />
 
+<h2 align="center">📫 Reach me on</h2>
 <p align="center">
-</a>
-<a href="https://twitter.com/harsh_casper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_casper" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://kaggle.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://instagram.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshcasper" height="30" width="30" /></a>
-<a href="https://medium.com/@harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshcasper" height="30" width="30" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/harsh_casper"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:erbeusgriffincasper@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/harshcasper/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Sad Day? Let's bring a Smile on your Face :wink:
-
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+</p>
