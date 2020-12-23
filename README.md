@@ -36,4 +36,6 @@
 <a href="https://medium.com/@harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshcasper" height="30" width="30" /></a>
 </p>
 
+### Sad Day? Let's bring a Smile on your Face :wink:
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
