@@ -21,13 +21,12 @@
 
 - ⚡ Fun fact **I am writing a Historical Fiction Trilogy and wish to be an Author someday**
 
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=harshcasper&layout=compact&hide=html&theme=jolly" alt="harshcasper" />
+</p>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcasper&layout=compact&hide=html&theme=radical" alt="harshcasper" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshcasper&show_icons=true&theme=radical" alt="harshcasper" />
-
-<h2 align="center">📫 Reach me on</h2>
+<h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/harsh_casper"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
