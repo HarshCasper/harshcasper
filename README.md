@@ -1,4 +1,26 @@
 
+<h2 align="center">🛠 Experience</h2>
+
+- Incoming Product Documentation Intern at [Red Hat](http://redhat.com/).
+
+- Developer Outreach Intern at [DeepSource](https://deepsource.io/): Debugged Issues and Anti-Patterns in Open-Source Projects using DeepSource Static Code Analysis. Publicized Technical Content in form of Blogs and corresponded the promotion of the Code Analysis Tool.
+   
+- Fellow at [Major League Hacking](https://github.com/MLH-Fellowship): Participated in 6 Hackathons and created Open-Source projects from scratch over a period of 12 weeks. Developed [Helping Hands](https://github.com/harshcasper/HelpingHand) and [WebEdge](https://github.com/harshcasper/webedge) which won the Sprint 0 "Open Innovation" and Sprint 5 "Developer Tools and Productivity" Hackathons.
+
+- Software Engineering Intern at [Qxf2](https://qxf2.com/): Developed an Internal Survey Application with React, FastAPI, and Neo4j and deployed on AWS EC2. Automated the conversion of Quilt to Neo4j and wrote Selenium Scripts to automate Web Application Testing.
+
+- Technical Content Reviewer at [GeeksforGeeks](https://www.geeksforgeeks.org/): Reviewing the Content and Articles written on GeeksforGeeks, primarily on Data Structures and Algorithms. Improving Code and formatting articles to make them fit for publishing.
+
+- Web Development Intern at [Scholify](http://scholifyme.com/): Develop the Chatbot for the Main Website using IBM Watson Cognitive Services. Developed the Blog Page for the Website in development using Django and the User Profile Page for the Website Users using Bootstrap. Worked on React Native to integrate a Quiz with the Mobile Application.
+
+- Student Ambassador at [Microsoft Learn](https://docs.microsoft.com/en-us/learn/): Part of MSP Communities such as Tesseract Coding, QPower and Voice of Code. Organized Events and Sessions, and spoke on topics in and around DevOps, Cloud, Git, JavaScript, Competitive Coding and more.
+
+- Technical Lead at [Developer Student Club-Sathyabama](https://www.linkedin.com/company/dsc-sist/): Leading Technical Team at Developer Student Club - Sathyabama IST powered by Google Developers. Maintaining Open-Source Projects and organizing Events and Coding Contests along with providing active on-campus Internship. 
+
+- Web Instructor at [Honchous](https://honchous.com/): Undertook Guided Sessions on CSS, Javascript, Document Object Model along with Git and Hosting. Supervising Web Development Interns over their guided projects and Instructing Students over Full Stack Web Development.
+
+- Mentoring Student Developers over Open-Source and Development at [WooTech](https://wootechnology.github.io/Website/), [PClub Summer of Code](http://www.pclubsummerofcode.in/), [Student Code-In](https://scodein.tech/), [HakinCodes](https://hakincodes.tech/), [Semester Long Projects](https://slop.dscdaiict.in/) and more.
+
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
