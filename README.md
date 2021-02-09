@@ -4,7 +4,10 @@
 <p align="center">
   <samp>
 I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering. I am an Intern at Red Hat with the CCS Team and a    Developer Outreach at DeepSource. I have been an MLH Fellow for Fall '20 Batch, a Former Software Engineering Intern at Qxf2 Services and a Summer Intern at Scholify. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
-  </samp>
+  </samp><br><br>
+  <samp>
+Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking for Open-Source Projects to collaborate on? Check out my <a href="./OPEN-SOURCE-PROJECTS.md">Open-Source Projects</a> and reach out to me if you would like to contribute or maintain.
+   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=harshcsper" alt="harshcsper" /> 
 </p>
