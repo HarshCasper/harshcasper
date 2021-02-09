@@ -1,25 +1,13 @@
-<h1 align="center">Hi 👋, I'm Harsh Bardhan Mishra</h1>
-<h3 align="center">Full Stack Developer 👨‍💻 || Microsoft Learn Student Ambassador 🐦|| React Developer ⚛️ || Pythoneer 🐍</h3>
+<h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcsper" alt="harshcsper" /> </p>
-
-- 🔭 I’m currently working on **GraphViz**
-
-- 🌱 I’m currently learning **NextJS, Neo4j, AWS Elastic BeanStalk, Angular, GraphQL, Selenium**
-
-- 👯 I’m looking to collaborate on [Rotten Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-
-- 🤔 I’m looking for help with [MargSetu](https://github.com/HarshCasper/MargSetu)
-
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/HarshCasper?tab=repositories)
-
-- 📝 I regulary write articles on [DevMeet](https://devmeet.in/author/harshcasper/)
-
-- 💬 Ask me about **React, Javascript, Flask, Tensorflow, Data Structures and Algorithms**
-
-- 📫 How to reach me **erbeusgriffincasper@gmail.com**
-
-- ⚡ Fun fact **I am writing a Historical Fiction Trilogy and wish to be an Author someday**
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>
+I am a Junior Year Student at Sathyabama IST currently undertaking my Bachelors in Computer Science and Engineering. I am an Intern at Red Hat with the CCS Team and a    Developer Outreach at DeepSource. I have been an MLH Fellow for Fall '20 Batch, a Former Software Engineering Intern at Qxf2 Services and a Summer Intern at Scholify. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=harshcsper" alt="harshcsper" /> 
+</p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
@@ -39,19 +27,7 @@
   <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-  
+  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
