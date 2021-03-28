@@ -50,5 +50,5 @@ Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="
 
 <h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
